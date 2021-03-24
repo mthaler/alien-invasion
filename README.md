@@ -26,7 +26,7 @@ $ python -m pip install --user pygame
 To install Pygame globally on Debian based systems, do:
 
 ```
-# apt-get install python-pygame
+# apt-get install python3-pygame
 ```
 
 # Quitting the game
