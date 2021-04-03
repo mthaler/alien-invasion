@@ -2,6 +2,8 @@
 
 Alien Invasion game from Python Crash Course book
 
+![alt text](screenshots/alien_invasion.jpg "Alien Invasion")
+
 ## Add Pygame package when using PyCharm
 
 The Alien Invasion game requires the Pygame package to be installed.
